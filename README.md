@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently working on a project **ACQIS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kusuta012](https://github.com/kusuta012)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kusuta012)
 
-- 📝 I regularly write articles on [https://ishaandev.000webhostapp.com/](https://ishaandev.000webhostapp.com/)
+- 📝 I have my own website [Ishaan](https://ishaandev.vercel.app/)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **contactishaan0@gmail.com**
-
-- 📄 Know about my experiences [https://ishaandev.000webhostapp.com/](https://ishaandev.000webhostapp.com/)
 
 - ⚡ Fun fact **Maybe I am a genius lol**
 
