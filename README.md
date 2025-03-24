@@ -32,8 +32,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/kusuta012/kusuta012/output/snake.svg" alt="Snake animation" />
 
 ###
