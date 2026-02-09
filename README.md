@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ishaan and I'm a budding programmer from India</h2>
+<h2 align="left">Hi 👋! My name is Ishaan and I'm a programmer from India</h2>
 
 ###
 
